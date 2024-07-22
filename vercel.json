@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://tsunamireach.com/$1"
+ }
+  ]
+}
